@@ -33,3 +33,5 @@ I build lightweight, reproducible tools for multimodal research workflows, with 
 
 - GitHub: [@ResearchAgents](https://github.com/ResearchAgents)
 - Email: `255673362+ResearchAgents@users.noreply.github.com`
+
+Last updated: February 2026.
